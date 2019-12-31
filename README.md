@@ -28,7 +28,7 @@
 3.	Power (Maybe a battery or Mobile power) for your Raspberry PI 3
 ---
 ## Technologies implementation
-#### MPU6050 module:
+## MPU6050 module:
 MPU6050 use the I2C interface, so we need to make our raspberry pi enable the I2C interface function.
 
 **Part 1: Configure the RPI I2C**
@@ -56,7 +56,7 @@ Then you can see the picture
 if success, your will see like this:
 ![](https://i.imgur.com/WStJgir.png)
 ---
-#### Bluetooth module:
+## Bluetooth module:
 We will use the python for control the Bluetooth communication. In the part, you will install the python Bluetooth package and program the python code to control the Bluetooth to transmit data from sender to receiver.
 
 **Part 1: Install python-bluezthat for your RPI**
@@ -80,7 +80,7 @@ We will use the python for control the Bluetooth communication. In the part, you
 3.	If you want to test the Bluetooth programming
 * Reference: https://shengyu7697.github.io/blog/2019/09/11/%E5%9C%A8-RPi3-%E4%B8%8A%E5%AF%AB%E7%AC%AC%E4%B8%80%E6%94%AF%E8%97%8D%E8%8A%BD%E7%A8%8B%E5%BC%8F-Python/
 ---
-#### Robot Car:
+## Robot Car:
 **Part 1: Configure all components of your car**
 * ![](https://i.imgur.com/DBJMN9t.png)
 * ![](https://i.imgur.com/coFWCS2.png)
