@@ -3,8 +3,7 @@
 * https://www.youtube.com/watch?v=M3KnmwjnczY
 ---
 ## Precondition (Important!)
-* Make sure that your Raspber
-* ry PI has already set up. In the Project, we don’t teach how to do that.
+* Make sure that your Raspberry PI has already set up. In the Project, we don’t teach how to do that.
 * Also, you can see the “RPI_INSTALL_DOC.pdf” in the project. That will teach you step-by-step process to set up your Raspberry PI.
 ---
 ## Overview
